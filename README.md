@@ -1,5 +1,5 @@
 An RBXFlip predictor, used to see the outcome of games before their roll by abusing their broken provably fair system.
-I am releasing this because I don't care for abusing this anymore, so enjoy it while its unpatched lmfao
+I am releasing this because I don't care, so enjoy it while its unpatched lmfao
 
 Installation guide:
 1) Download the zip file.
